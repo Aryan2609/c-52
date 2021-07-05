@@ -1,0 +1,81 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 255, 157);
+    border:solid;
+}
+.header{
+   
+   display:flex;
+   justify-content:space-between;
+}
+.menu{
+   
+    display:flex; 
+    margin-bottom: 30px;
+}
+.grid{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.abc:hover{
+    transform: translate(-50%,-50%);
+    opacity:0.5;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.def{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.ghi{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;   
+}
+.jkl{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;   
+}
+
+.jjk{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;   
+}
+.fb{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+}
+.insta{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+.yt{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+body{
+ background-image: url("https://www.free-largeimages.com/wp-content/uploads/2019/05/avengers-endgame-iphone-wallpaper.jpg");
+}
+a:link{
+    color: rgb(145, 188, 143);
+}
+a:visited{
+    color: rgb(20, 55, 255);
+}
+
